@@ -10,7 +10,6 @@
 **Link to work:** [Random Quote App](http://codepen.io/Shiverz/full/QdwKyL/)
 
 ### Day 2: January 5,2017 (Example 2)
-##### (delete me or comment me out)
 
 **Today's Progress**: Finished the Local Weather App and made some progress on FreeCodeCamp's course
 

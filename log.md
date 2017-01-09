@@ -24,3 +24,11 @@
 **Thoughts**: I am finally perceiving the experience I'm getting from developing these projects. It gave me the chance to make mistakes and to fix those mistakes. And I'm sure I won't make those mistakes again; and that, if I do, I will be able to fix them right away. Today I couldn't finish the project like in the previous days but I'm really proud of myself because this project I thought to be harder than the previous ones and I've been able to overcome and get the logic to work with it.
 
 **Link(s) to work**: [Wiki Viewer](https://codepen.io/Shiverz/pen/VPLWav)
+
+### Day 4: January 8,2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Twitch is Online](http://codepen.io/Shiverz/pen/apvZLg)

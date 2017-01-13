@@ -39,6 +39,6 @@
 
 **Thoughts**: These challenges are getting a lot harder! Some of them, i was only able to solve after hours of searching and trying. But I was able to finish about 10 of them. The reason I skipped some days is because i was at a cousin's house and wasn't able to keep track of my coding. I kept coding these days but didn't make any record about it so i'll not include them on this challenge and will continue from where i've left.
 
-**Link(s) to work**: 
+**Link(s) to work**: [Challenges Repository](https://github.com/Shiverzz/Javascript-Challenges/)
 
 

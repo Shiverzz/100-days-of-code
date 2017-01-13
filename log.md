@@ -27,8 +27,18 @@
 
 ### Day 4: January 8,2017
 
-**Today's Progress**: 
+**Today's Progress**: Finished the Twitch App
 
-**Thoughts**: 
+**Thoughts**: My programming logic is getting much better from when I started this challenge.
 
 **Link(s) to work**: [Twitch is Online](http://codepen.io/Shiverz/pen/apvZLg)
+
+### Day 5: January 13,2017
+
+**Today's Progress**: Worked on some Javascript exercises!
+
+**Thoughts**: These challenges are getting a lot harder! Some of them, i was only able to solve after hours of searching and trying. But I was able to finish about 10 of them. The reason I skipped some days is because i was at a cousin's house and wasn't able to keep track of my coding. I kept coding these days but didn't make any record about it so i'll not include them on this challenge and will continue from where i've left.
+
+**Link(s) to work**: 
+
+

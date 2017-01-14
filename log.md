@@ -41,4 +41,13 @@
 
 **Link(s) to work**: [Challenges Repository](https://github.com/Shiverzz/Javascript-Challenges/)
 
+### Day 6: January 14,2017
+
+**Today's Progress**: Finished the basic algorithm section on FreeCodeCamp and "drew" a bear using CSS and HTML only
+
+**Thoughts**: These last challenges were really hard but nothing that time and clear thinking can't handle. 
+I woke up today really well disposed, checked my mail and there it was: the first challenge of the #DailyCSSImages. It was a bear cub. I had never done anything similar so i had no idea from where to start so I found about the koala tutorial on DailyCssImages website and learned from it.Turns out it's a piece of cake. For real. I'm excited to see what's coming though.
+
+**Link(s) to work**: [Challenges Repository](https://github.com/Shiverzz/Javascript-Challenges/),[Bear Cub On Codepen](http://codepen.io/Shiverz/pen/OWXdyQ)
+
 

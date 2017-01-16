@@ -54,6 +54,6 @@ I woke up today really well disposed, checked my mail and there it was: the firs
 
 **Today's Progress**: 3 Intermediate javascript algorithms
 
-**Thoughts**: Not a lot of progress today. To be honest, i wasn't in the mood to code so I coded just 3-4 hours. The "convert to roman number" challenge was really hard! Probably the hardest i have ever done in my whole life. I'm not really proud of my code because it got really big (140 lines of code) and i think there's a better solution for this challenge but as I said, i'm not really in the mood to code so i'll just make it a day
+**Thoughts**: Not a lot of progress today. To be honest, i wasn't in the mood to code so I coded just 3-4 hours. The "convert to roman number" challenge was really hard! Probably the hardest i have ever done in my whole life. I'm not really proud of my code because it got really big (140 lines of code) and i think there's a better solution for this challenge but as I said, i'm not really in the mood to code so i'll just call it a day
 
 **Link(s) to work**: [Challenges Intermediate Repository](https://github.com/Shiverzz/Javascript-Challenges/tree/master/Intermediate)

@@ -50,7 +50,7 @@ I woke up today really well disposed, checked my mail and there it was: the firs
 
 **Link(s) to work**: [Challenges Repository](https://github.com/Shiverzz/Javascript-Challenges/),[Bear Cub On Codepen](http://codepen.io/Shiverz/pen/OWXdyQ)
 
-### Day 6: January 14,2017
+### Day 7: January 15,2017
 
 **Today's Progress**: 3 Intermediate javascript algorithms
 

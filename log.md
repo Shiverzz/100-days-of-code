@@ -57,3 +57,21 @@ I woke up today really well disposed, checked my mail and there it was: the firs
 **Thoughts**: Not a lot of progress today. To be honest, i wasn't in the mood to code so I coded just 3-4 hours. The "convert to roman number" challenge was really hard! Probably the hardest i have ever done in my whole life. I'm not really proud of my code because it got really big (140 lines of code) and i think there's a better solution for this challenge but as I said, i'm not really in the mood to code so i'll just call it a day
 
 **Link(s) to work**: [Challenges Intermediate Repository](https://github.com/Shiverzz/Javascript-Challenges/tree/master/Intermediate)
+
+### Day 8: January 16,2017
+
+**Today's Progress**: 0 intermediate javascript algorithm
+
+**Thoughts**: >WHEREFORE ART THOU< this challenge is hard as ****. OMG, i've spent like 7 hrs trying to finish it but I still couldn't! Don't know what to say. Don't know if i get proud of myself for trying so hard or if i'm too dumb. I guess i'll go with the first one.
+
+**Link(s) to work**: [Challenges Intermediate Repository](https://github.com/Shiverzz/Javascript-Challenges/tree/master/Intermediate)
+
+### Day 9: January 17,2017
+
+**Today's Progress**: FINISHED WHEREFORE ART THOU and two more challenges. Had my first web dev job interview too!
+
+**Thoughts**: Had my first interview today! I didn't get nervous so that helped me a lot. I think i went pretty well but it was my first experience so i'm not a good judge. The projects i've been doing helped me a lot because it showed that i am capable of getting the job done and also that i am a dedicated person.
+
+**Link(s) to work**: [Challenges Intermediate Repository](https://github.com/Shiverzz/Javascript-Challenges/tree/master/Intermediate)
+
+

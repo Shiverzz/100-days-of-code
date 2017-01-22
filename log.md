@@ -74,4 +74,10 @@ I woke up today really well disposed, checked my mail and there it was: the firs
 
 **Link(s) to work**: [Challenges Intermediate Repository](https://github.com/Shiverzz/Javascript-Challenges/tree/master/Intermediate)
 
+### Day 13: January 21,2017
 
+**Today's Progress**: Finished the intermediate Javascript algorithm chalenges!
+
+**Thoughts**: Didn't log for a few days but I kept coding, making some javascript algorithms and stuff. Today i've finished the intermediate section and now i'll go to the final projects starting from the "Javascript Calculator". After i finish these projects, I can receive my Front-End certificate so I'm really excited for it! Day 18 I've received my college entrance examination grade and i'm really happy with it!
+
+**Link(s) to work**: [Challenges Intermediate Repository](https://github.com/Shiverzz/Javascript-Challenges/tree/master/Intermediate)

@@ -89,3 +89,21 @@ I woke up today really well disposed, checked my mail and there it was: the firs
 **Thoughts**: Today, I finished the Javascript Calculator and I didn't find it hard. I think that this is a good thing because it shows that the javascript challenges prepared me well enough for this first project and for the next ones, I hope.
 
 **Link(s) to work**: [Javascript Calculator](https://shiverzz.github.io/Javascript-Calculator/)
+
+### Day 14: January 23,2017
+
+**Today's Progress**: Finished the design for the Pomodoro Clock App
+
+**Thoughts**: Today i finished the design for the Pomodoro Clock which took about 1 hr to finish. Didn't have much time to code cause I had a few appointments that couldn't be avoided.
+
+**Link(s) to work**: [Pomodoro Clock App on Codepen](http://codepen.io/Shiverz/full/KaqMex/)
+
+### Day 15: January 24,2017
+
+**Today's Progress**: Went to a meetup
+
+**Thoughts**: Today i went to a Ruby workshop and learned a lot about the language. From what I seen, it looks a lot simpler than Javascript and also has methods that really helps the coder. Really excited to get to learn more about the language! The workshop was really great, Le Wagon really do a great job.
+
+**Link(s) to work**: [Ruby para Iniciantes(Ruby for Beginners) on Meetup.com](https://www.meetup.com/pt-BR/Le-Wagon-Sao-Paulo-Coding-Station/events/235756742/)
+
+

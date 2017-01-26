@@ -106,4 +106,10 @@ I woke up today really well disposed, checked my mail and there it was: the firs
 
 **Link(s) to work**: [Ruby para Iniciantes(Ruby for Beginners) on Meetup.com](https://www.meetup.com/pt-BR/Le-Wagon-Sao-Paulo-Coding-Station/events/235756742/)
 
+### Day 16 and 17: January 25/26,2017
 
+**Today's Progress**: Finished the Pomodoro clock!
+
+**Thoughts**: Finally finished the Pomodoro Clock App! Had a few problems that i couldn't solve such as pausing the timer and then being able to continue from where it started...But i think that that's no big deal because the point of the pomodoro clock is to not stop your work until the timer finishes. Tomorrow i start the tic tac toe game and i'm looking forward to it
+
+**Link(s) to work**: [Pomodoro Clock App](https://github.com/Shiverzz/Pomodoro-Clock-App)
